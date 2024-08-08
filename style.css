@@ -1,0 +1,11 @@
+<BODY {
+ background-color: blue;   #383D58
+}
+
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+
+header {
+    background-color: #383d58
+    color: white;
+}
